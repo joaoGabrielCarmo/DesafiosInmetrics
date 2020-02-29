@@ -12,10 +12,10 @@
  
  ### Desafio Web
  
- o algoritimo para aplicar a automação de teste web foi basiado no seguinte artido "https://www.guru99.com/using-cucumber-selenium.html"
+ o algoritimo para aplicar a automação de teste web foi baseado no seguinte artiro "https://www.guru99.com/using-cucumber-selenium.html"
      onde foi utilizado ferramentas como selenium e Cucumber.
      
 ### Desafio de Serviço
 
-o algoritimo para aplicar a automação de teste foi basiado no seguinte artigo "https://dextra.com.br/pt/automacao-de-api-rest-utilizando-java-e-restassured/" onde foi adicionado as dependencias do projeto atraves do arquivo "pom.xml" e feito todo o processo atraves de Given,When e Then 
+o algoritimo para aplicar a automação de teste foi baseado no seguinte artigo "https://dextra.com.br/pt/automacao-de-api-rest-utilizando-java-e-restassured/" onde foi adicionado as dependencias do projeto atraves do arquivo "pom.xml" e feito todo o processo atraves de Given,When e Then 
      
