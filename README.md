@@ -12,7 +12,7 @@
  
  ### Desafio Web
  
- o algoritimo para aplicar a automação de teste web foi baseado no seguinte artiro "https://www.guru99.com/using-cucumber-selenium.html"
+ o algoritimo para aplicar a automação de teste web foi baseado no seguinte artigo "https://www.guru99.com/using-cucumber-selenium.html"
      onde foi utilizado ferramentas como selenium e Cucumber.
      
 ### Desafio de Serviço
